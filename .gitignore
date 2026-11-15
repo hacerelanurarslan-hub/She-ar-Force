@@ -1,0 +1,16 @@
+# Local development only
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.partial
+*.tif
+*.tiff
+*.img
+*.zip
